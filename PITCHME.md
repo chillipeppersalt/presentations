@@ -1,4 +1,4 @@
-                  #JEKYLL
+                  #_JEKYLL_
 
 -  A simple 
 - static site generator 
@@ -8,7 +8,7 @@
              ###Benifits of using jekyll
 
 
-  - A truly cheap-&-cheerfull way
+  - A truly _cheap-&-cheerfull_ way
   
   - sites are stable and fast to build
   
