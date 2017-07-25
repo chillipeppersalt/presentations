@@ -1,0 +1,33 @@
+language: ruby
+rvm:
+ - 2.3.1
+script:
+ - ./build-code.sh
+after_script: 
+ - ./test-code.sh
+branches:
+  only:
+   - master    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
