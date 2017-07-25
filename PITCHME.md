@@ -1,5 +1,9 @@
                   #JEKYLL
-        A simple,static site generator which be can effectively used in writing blogs.Having basic knowledge about web-pages and we get a handy customisable static site
+
+-  A simple 
+- static site generator 
+- can effectively used in writing blogs.
+- Having basic knowledge about web-pages and we get a handy customisable static site
 ---
              ###Benifits of using jekyll
 
