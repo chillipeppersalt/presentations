@@ -5,22 +5,23 @@
 source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
 ---
                   #_JEKYLL_
+ 
+- Customisable Static site generator. 
 
--  A simple 
-- Static site generator 
-- Can effectively used in writing blogs.
-- Having basic knowledge about web-pages and we get a handy customisable static site
+- used  for  blogs,websites.
+
+- rich plugins,themes
 ---
-             ### Pros and Cons  of using jekyll
+             ###Pros and Cons  of using jekyll
       
                   ADVANTAGES 
 
 
-  - A truly _**cheap-&-cheerfull**_ way
+  
   
   - Sites are **stable** and **fast** to build
   
-  - Jekyll is extremly **lightweight & customisable**
+  - Jekyll is extremly **lightweight**
  
   - With basic knoweledge easily web-pages can be built
 
@@ -28,30 +29,19 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
   
   - Theming is simple
  
-  - Gives free hosting on github
-
----
-
-                 DISAVANTAGES
-
-  - **Markdown** is often _annoying_
   
-  - Doesn't serve a surface for *_dynanmic_* content only static pages can be displayed
-  
-  - **Images** can't be can't be _croped or resized_ 
- 
   - It's **reliance** on _command line_ 
 
-  - May be a **hard task** to teach _YAML format_ & write _markdown_
-
 ---
+
+ 
                   _How to run **JEKYLL**_
      video   
                
 
 ---
     
-                     **_TRAVIS_**
+                     **_TRAVIS  CI_**
 
 [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
 source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
@@ -60,11 +50,11 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 ---
           
        
-  - It is used to **build & test** Softwares projects hosted on Github
+  -  **build & test** Softwares projects 
 
-  - Projects are tested for free. But for private accounts  some amount has to be paid.
+  - Projects are tested for free. 
 
-  - Can be tested and deployed on many platforms like Github,Heroku etc.
+  - Can be tested  on many platforms like Github,Heroku etc.
  
   
               
