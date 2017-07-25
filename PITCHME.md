@@ -84,7 +84,11 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 
   
 ---
-                            CONTI int
+                            CONTINOUS INTEGRATION
+   >Basically is a of continously integrating new code and automaically testing it and checking out the obtained code's behaviour
+
+
+
 
 ---
 
