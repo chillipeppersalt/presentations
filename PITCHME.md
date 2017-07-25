@@ -1,9 +1,8 @@
 ---
 
-![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33
-651e846aed812280fbff586ba.png)
-source: [https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33]
+![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
 
+source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
 ---
                   #_JEKYLL_
 
@@ -54,39 +53,58 @@ source: [https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33]
     
                      **_TRAVIS_**
 
-[travis CI](http://blog.biicode.com/wp-content/uploads/sites/2/2014/11/logotravis.png)
-source: [travis CI](https://www.google.co.in/search?q=travis&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_ofjj4qTVAhULqo8KHWiYD2oQ_AUICigB&biw=1183&bih=616#tbm=isch&q=travis+CI&imgrc=fOsdcdD7Nd6FvM:)
+[travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
+source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
 
 
 ---
           
+       
   - It is used to **build & test** Softwares projects hosted on Github
 
   - Projects are tested for free. But for private accounts  some amount has to be paid.
 
   - Can be tested and deployed on many platforms like Github,Heroku etc.
  
-  - 
-                      
-
-
-
-
-
-
-
-
-
-   CONFIGRATION
+  
+              
+                             # CONFIGRATION
    
   - Travis CI is configured by a file named **_config.yml_** which is in the **_YAML_** format.
 
-  - the config filw
+  - The config file this file consist of the **programming language** used 
 
+  -The building and testing enviornment that includes various dependencies that has to installed  
 
+  -Can be configured to run test on different machines
+---
+                              ADVANTAGES
+  
+  - **Easy** and **Straight-forward**
+  
+  - _Build_ is run automatically
 
+  - **_Faster_** the commit, **_Faster_** the feedback
 
+  -**_Early alarm for every problem_**
 
+  - It is a _good practise_
+  
+---
+
+                              MARKDOWN
+
+  - light weight markup language
+
+  - really easy and converts plain text to rich text using simple text editor
+  
+  - many **platforms** and **frameworks**support markdown
+ 
+  - can be easily read and edited
+
+  -_READIABILTY_ is emphasied 
+
+  -
 
 
 
