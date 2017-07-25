@@ -1,10 +1,19 @@
                   #JEKYLL
+        A simple,static site generator which be can effectively used in writing blogs.Having basic knowledge about web-pages and we get a handy customisable static site
 ---
-             ###transform your plain text into static website and blog 
-            jekyll is a simple,blog-aware,static generator.it takes a template directory containing raw text files in a various formats
+             ###Benifits of using jekyll
 
 
+  - A truly cheap-&-cheerfull way
+  
+  - sites are stable and fast to build
+  
+  - jekyll is extremly lightweight & customisable
+ 
+  - with basic knoweledge easily web-pages can be built
 
-                       jekyll uses **_markdown_** and **_liquid_**   
+  - remarkably flexible
+
 ---
+
 ![jekyll](http://jekyllrb.com/)
