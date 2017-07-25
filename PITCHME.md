@@ -1,4 +1,18 @@
 ---
+                              MARKDOWN
+
+  - light weight markup language
+
+  - really easy and converts plain text to rich text using simple text editor
+  
+  - many **platforms** and **frameworks**support markdown
+ 
+  - can be easily read and edited
+
+  -_READIABILTY_ is emphasied 
+
+
+---
 
 ![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
 
@@ -12,7 +26,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 - rich plugins,themes
 ---
-             ###Pros and Cons  of using jekyll
+             
       
                   ADVANTAGES 
 
@@ -29,7 +43,6 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
   
   - Theming is simple
  
-  
   - It's **reliance** on _command line_ 
 
 ---
@@ -52,21 +65,10 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
        
   -  **build & test** Softwares projects 
 
-  - Projects are tested for free. 
-
-  - Can be tested  on many platforms like Github,Heroku etc.
- 
-  
-              
-                             # CONFIGRATION
+  - Projects are tested for free
    
-  - Travis CI is configured by a file named **_config.yml_** which is in the **_YAML_** format.
-
-  - The config file this file consist of the **programming language** used 
-
-  -The building and testing enviornment that includes various dependencies that has to installed  
-
-  -Can be configured to run test on different machines
+  - Integration with **GITHUB** 
+ 
 ---
                               ADVANTAGES
   
@@ -79,22 +81,33 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
   -**_Early alarm for every problem_**
 
   - It is a _good practise_
+
   
 ---
+                            CONTI int
 
-                              MARKDOWN
+---
 
-  - light weight markup language
+                            CONFIGURATION
 
-  - really easy and converts plain text to rich text using simple text editor
-  
-  - many **platforms** and **frameworks**support markdown
- 
-  - can be easily read and edited
+---
 
-  -_READIABILTY_ is emphasied 
+                            DEMO BUILD
 
-  -
+---
+    
+
+
+                           AUTODEPLOYMENT PROCESS
+                                  
+
+---
+                              Autodeployment Demo
+
+---
+                              Auxillary tools
+
+---
 
 
 
