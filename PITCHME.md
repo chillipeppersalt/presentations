@@ -8,15 +8,15 @@
              ###Benifits of using jekyll
 
 
-  - A truly _cheap-&-cheerfull_ way
+  - A truly _**cheap-&-cheerfull**_ way
   
-  - sites are stable and fast to build
+  - sites are **stable** and **fast** to build
   
-  - jekyll is extremly lightweight & customisable
+  - jekyll is extremly **lightweight & customisable**
  
   - with basic knoweledge easily web-pages can be built
 
-  - remarkably flexible
+  - remarkably _flexible_
 
 ---
 
