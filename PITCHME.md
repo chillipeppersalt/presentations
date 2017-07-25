@@ -110,7 +110,7 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
              
 
 ---
----?code=src/travis.yml
+
 
 ---?code=https://raw.githubusercontent.com/chillipeppersalt/wrt/master/.travis.yml
                             DEMO BUILD
