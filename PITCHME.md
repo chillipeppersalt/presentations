@@ -2,7 +2,7 @@
 
 ![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33
 651e846aed812280fbff586ba.png)
-source: [jekyll](https://www.google.co.in/search?q=jekyll&source=lnms&tbm=isch&sa=X&ved=0ahUKEwil8tfAzKTVAhUJq48KHTyPDUwQ_AUICigB&biw=1183&bih=616#imgrc=yXUExf3G30TuMM:)
+source: [https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33]
 
 ---
                   #_JEKYLL_
