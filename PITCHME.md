@@ -102,13 +102,15 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
              - Contains YAML file having the versions
   
              - building and testing enviornment
-             -  
-             - scripts  accesses to all feasible enviornment
-
+               (script)
+             - commands to build 
+                
+             - commands to test 
 
              
 
 ---
+---?code=src/travis.yml
 
                             DEMO BUILD
 
