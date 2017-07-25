@@ -1,3 +1,10 @@
+---
+
+![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33
+651e846aed812280fbff586ba.png)
+
+
+---
                   #_JEKYLL_
 
 -  A simple 
@@ -38,7 +45,7 @@
   - May be a **hard task** to teach _YAML format_ & write _markdown_
 
 ---
-![jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
+
 
 ---
 
