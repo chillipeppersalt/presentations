@@ -7,7 +7,7 @@
 ---
              ### Pros and Cons  of using jekyll
       
-                   #ADVANTAGES 
+                  **ADVANTAGES** 
 
 
   - A truly _**cheap-&-cheerfull**_ way
@@ -26,7 +26,7 @@
 
 ---
 
-                 #DISAVANTAGES
+                 **DISAVANTAGES**
 
   - **markdown** is often _annoying_
   
