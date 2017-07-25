@@ -85,14 +85,28 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
   
 ---
                             CONTINOUS INTEGRATION
-   >Basically is a of continously integrating new code and automaically testing it and checking out the obtained code's behaviour
 
+   >Basically it is  continously integrating new codes with existing one and automaically testing it and checking out the obtained code's behaviour
+---
+                     - Detection of _error_ directly after every commit 
 
+                     - Automatically testing & measuring
+                     
+                     - Quick report
 
 
 ---
 
                             CONFIGURATION
+
+             - Contains YAML file having the versions
+  
+             - building and testing enviornment
+             -  
+             - scripts  accesses to all feasible enviornment
+
+
+             
 
 ---
 
