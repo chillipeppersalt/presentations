@@ -48,8 +48,10 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 ---
 
  
-                  _How to run **JEKYLL**_
-     video   
+                  How to run JEKYLL
+
+
+      [![asciicast](https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46.png)](https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46)
                
 
 ---
