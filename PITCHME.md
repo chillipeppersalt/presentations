@@ -127,8 +127,9 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
                            AUTODEPLOYMENT PROCESS
                                   
 [![asciicast](https://asciinema.org/a/113199.png)](https://asciinema.org/a/113199)
+---
 
-<asciinema-player src="https://asciinema.org/a/113199"></asciinema-player>
+![Video](https://asciinema.org/a/113199)
 
 ---
 
