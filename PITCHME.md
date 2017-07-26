@@ -51,7 +51,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
                   How to run JEKYLL
 
 
-      [![asciicast](https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46.png)](https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46)
+      <script type="text/javascript" src="https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46.js" id="asciicast-DP3jLRHf56tWJRrXUzae7gy46" async></script>
                
 
 ---
