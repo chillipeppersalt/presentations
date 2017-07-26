@@ -51,7 +51,9 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
                   How to run JEKYLL
 
 
-      <script type="text/javascript" src="https://asciinema.org/a/DP3jLRHf56tWJRrXUzae7gy46.js" id="asciicast-DP3jLRHf56tWJRrXUzae7gy46" async></script>
+  <script type="text/javascript" src="https://asciinema.org/a/c79uf7x7xagj83dcnwj2csz2s.js" id="asciicast-c79uf7x7xagj83dcnwj2csz2s" async></script>
+ 
+      
                
 
 ---
@@ -126,10 +128,9 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 
                            AUTODEPLOYMENT PROCESS
                                   
-[![asciicast](https://asciinema.org/a/113199.png)](https://asciinema.org/a/113199)
+
 ---
 
-![Video](https://asciinema.org/a/113199)
 
 ---
 
