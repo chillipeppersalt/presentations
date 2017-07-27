@@ -123,8 +123,6 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 ---
                                 DEMO BUILD
 
----?code=
-
 
 
                            AUTODEPLOYMENT PROCESS
