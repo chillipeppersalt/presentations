@@ -53,7 +53,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 
 
-![asciicast](<script type="text/javascript" src="https://asciinema.org/a/nkUiiNCtw0TbmxXyMCQoZGhcf.js" id="asciicast-14" async data-autoplay="true" data-size="big"></script>)]
+
       
                
 
@@ -90,6 +90,9 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 ---
                             CONTINOUS INTEGRATION
 
+---
+
+
 ![CI Workflow](http://www.retrieverconsulting.com/Continuous%20Integration%20Workflow.jpg)
 
 
@@ -110,13 +113,13 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
                             CONFIGURATION
 
-             - Contains YAML file having the versions
+- Contains YAML file having the versions
   
-             - building and testing enviornment
+- building and testing enviornment
                (script)
-             - commands to build 
+- commands to build 
                 
-             - commands to test 
+- commands to test 
 
              
 
@@ -130,9 +133,10 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
                                 DEMO BUILD
 
 
-
+---
                            AUTODEPLOYMENT PROCESS
-                                  
+   
+                               
 - Developers scrutinize the code locally on the computer
 
 - When inspection completes, the changes are commited to respective repositories.
@@ -147,7 +151,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
     
 - The team fixes it.
 ---
-![how it works](Screenshot from 2017-07-27 09-01-59.png)
+
 
                               Autodeployment Demo
 
