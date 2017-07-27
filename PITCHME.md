@@ -53,7 +53,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 
 
-[![asciicast](<script type="text/javascript" src="https://asciinema.org/a/nkUiiNCtw0TbmxXyMCQoZGhcf.js" id="asciicast-14" async data-autoplay="true" data-size="big"></script>)]
+![asciicast](<script type="text/javascript" src="https://asciinema.org/a/nkUiiNCtw0TbmxXyMCQoZGhcf.js" id="asciicast-14" async data-autoplay="true" data-size="big"></script>)]
       
                
 
@@ -61,7 +61,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
     
                      TRAVIS  CI
 
-[travis CI](https://logz.io/wp-content/uploads/2016/02/travis-ci.jpg)
+![travis CI](https://logz.io/wp-content/uploads/2016/02/travis-ci.jpg)
 
 
 ---
@@ -90,7 +90,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 ---
                             CONTINOUS INTEGRATION
 
-[CI Workflow](http://www.retrieverconsulting.com/Continuous%20Integration%20Workflow.jpg)
+![CI Workflow](http://www.retrieverconsulting.com/Continuous%20Integration%20Workflow.jpg)
 
 
 ---
