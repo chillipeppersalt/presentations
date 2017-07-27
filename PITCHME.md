@@ -141,7 +141,7 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
     
 - The team fixes it.
 ---
-
+[how it works](Screenshot from 2017-07-27 09-01-59.png)
 
                               Autodeployment Demo
 
