@@ -89,9 +89,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
   
 ---
                             CONTINOUS INTEGRATION
-
 ---
-
 
 ![CI Workflow](http://www.retrieverconsulting.com/Continuous%20Integration%20Workflow.jpg)
 
