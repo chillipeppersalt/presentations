@@ -147,7 +147,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
     
 - The team fixes it.
 ---
-[how it works](Screenshot from 2017-07-27 09-01-59.png)
+![how it works](Screenshot from 2017-07-27 09-01-59.png)
 
                               Autodeployment Demo
 
