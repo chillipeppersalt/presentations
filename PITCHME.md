@@ -129,19 +129,19 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 
                            AUTODEPLOYMENT PROCESS
                                   
-       - Developers scrutinize the code locally on the computer
+- Developers scrutinize the code locally on the computer
 
-       - When inspection completes, the changes are commited to respective repositories.
+- When inspection completes, the changes are commited to respective repositories.
 
-       - Then,Repositories are send the request to the CI system.
+- Then,Repositories are send the request to the CI system.
 ---
 
 
-       - CI system runs the job(test,coverage,check syntax etc)
+- CI system runs the job(test,coverage,check syntax etc)
  
-       - If build fails then the CI server reports it to the team.
+- If build fails then the CI server reports it to the team.
     
-       - The team fixes it.
+- The team fixes it.
 ---
 
 
