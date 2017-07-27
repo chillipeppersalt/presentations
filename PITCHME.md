@@ -1,13 +1,13 @@
 ---
                               MARKDOWN
 
-  - light weight markup language
+  - Light weight markup language
 
-  - really easy and converts plain text to rich text using simple text editor
+  - Really easy and converts plain text to rich text using simple text editor
   
-  - many **platforms** and **frameworks**support markdown
+  - Many **platforms** and **frameworks**support markdown
  
-  - can be easily read and edited
+  - Can be easily read and edited
 
   -_READIABILTY_ is emphasied 
 
@@ -22,9 +22,9 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
  
 - Customisable Static site generator. 
 
-- used  for  blogs,websites.
+- Used  for  blogs,websites.
 
-- rich plugins,themes
+- Rich plugins,themes
 ---
              
       
@@ -129,11 +129,21 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
 
                            AUTODEPLOYMENT PROCESS
                                   
+       - Developers scrutinize the code locally on the computer
 
+       - When inspection completes, the changes are commited to respective repositories.
+
+       - Then,Repositories are send the request to the CI system.
 ---
 
 
+       - CI system runs the job(test,coverage,check syntax etc)
+ 
+       - If build fails then the CI server reports it to the team.
+    
+       - The team fixes it.
 ---
+
 
                               Autodeployment Demo
 
