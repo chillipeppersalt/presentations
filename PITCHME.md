@@ -59,10 +59,9 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 ---
     
-                     **_TRAVIS  CI_**
+                     TRAVIS  CI
 
-[travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
-source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
+[travis CI](https://logz.io/wp-content/uploads/2016/02/travis-ci.jpg)
 
 
 ---
@@ -90,6 +89,13 @@ source: [travis CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-lo
   
 ---
                             CONTINOUS INTEGRATION
+
+[CI Workflow](http://www.retrieverconsulting.com/Continuous%20Integration%20Workflow.jpg)
+
+
+---
+
+
 
    >Basically it is  continously integrating new codes with existing one and automaically testing it and checking out the obtained code's behaviour
 ---
