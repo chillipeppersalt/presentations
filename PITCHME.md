@@ -53,8 +53,10 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 
 
+<script type="text/javascript" src="https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij.js" id="asciicast-udsMXGk6bcThZSQrpmsiWM5ij" async></script>
 
       
+![video](https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij)
                
 
 ---
@@ -154,7 +156,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 ---
                               Auxillary tools
-
+- 
 ---
 
 
