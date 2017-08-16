@@ -43,14 +43,17 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
   
   - Theming is simple
  
-  - It's **reliance** on _command line_ 
+  - Its **reliance** on _command line_ 
 
 ---
 
  
                   How to run JEKYLL
 
-
+'''
+jekyll new variable
+cd variable
+'''
 
 
 <script type="text/javascript" src="https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij.js" id="asciicast-udsMXGk6bcThZSQrpmsiWM5ij" async></script>
@@ -99,7 +102,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 
 
 
-   >Basically it is  continously integrating new codes with existing one and automaically testing it and checking out the obtained code's behaviour
+   >Basically it is  continously integrating new codes with existing one and automaically testing it and checking out the obtained codes behaviour
 ---
                      - Detection of _error_ directly after every commit 
 
