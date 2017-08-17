@@ -134,9 +134,6 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 ---?code=https://raw.githubusercontent.com/chillipeppersalt/wrt/master/.travis.yml
                             
 
----
-                                DEMO BUILD
-
 
 ---
                            AUTODEPLOYMENT PROCESS
