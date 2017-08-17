@@ -50,11 +50,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
  
                   How to run JEKYLL
 ---
-'''
-jekyll new variable
-cd variable
-'''
----
+
 
 <script type="text/javascript" src="https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij.js" id="asciicast-udsMXGk6bcThZSQrpmsiWM5ij" async></script>
 
@@ -118,7 +114,7 @@ cd variable
 - Contains YAML file having the versions
   
 - building and testing enviornment
-               (script)
+              
 - commands to build 
                 
 - commands to test 
@@ -159,8 +155,12 @@ cd variable
 
 ---
                               Auxillary tools
-- 
+
+- JEKYLL
+-TravisCI
+-Gitpitch
 ---
+
 
 
 
