@@ -2,12 +2,9 @@
 ---
                     ###CONTENT CENTRIC WEB-TECHNOLOGIES
                     
-                        ## SIMRAN PURI 
-                        ## BTECH CSE SEC-A
-                        ##ROLLNO- 2815051
-
----
-
+                         SIMRAN PURI 
+                         BTECH CSE SEC-A
+                         ROLLNO- 2815051
 
 ---
                               MARKDOWN
@@ -21,7 +18,6 @@
   - Can be easily read and edited
 
   -_READIABILTY_ is emphasied 
-
 
 ---
 
@@ -168,13 +164,15 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
                               Auxillary tools
 
 - JEKYLL
--TravisCI
--Gitpitch
+- TravisCI
+- Gitpitch
 ---
                             ###CONCULSION
-CONTENT CENTRIC WEB-TECHNOLOGIES
 
- This  project is about content centric web-technologies which helps content-editor to focus on content rather than on designing it .It is made using tool named [JEKYLL](https://jekyllrb.com/) This will help in enchancement of matter as required time will be given to the content . Then it is build using TravisCI for deployment[TravisCI](https://travis-ci.org/) .It is used to build & test software project hosted on github.The main agenda is to identify the problem that creeps during the development process as early as possible.so therefore complied regularly.
+
+ This  project is about content centric web-technologies which helps content-editor to focus on content rather than on designing it .It is made using tool named [JEKYLL](https://jekyllrb.com/) This will help in enchancement of matter as required time will be given to the content . 
+---
+Then it is build using TravisCI for deployment[TravisCI](https://travis-ci.org/) .It is used to build & test software project hosted on github.The main agenda is to identify the problem that creeps during the development process as early as possible.so therefore complied regularly.
 
 
 
