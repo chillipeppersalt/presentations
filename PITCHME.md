@@ -1,6 +1,6 @@
     
 ---
-                    ###CONTENT CENTRIC WEB-TECHNOLOGIES
+                    CONTENT CENTRIC WEB-TECHNOLOGIES
                     
                          SIMRAN PURI 
                          BTECH CSE SEC-A
@@ -25,7 +25,7 @@
 
 source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd5334246d33651e846aed812280fbff586ba.png)
 ---
-                  #_JEKYLL_
+                  JEKYLL
  
 - Customisable Static site generator. 
 
@@ -62,8 +62,8 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 <script type="text/javascript" src="https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij.js" id="asciicast-udsMXGk6bcThZSQrpmsiWM5ij" async></script>
 
       
-<!--![video](https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij)
-     -->          
+![video](https://asciinema.org/a/udsMXGk6bcThZSQrpmsiWM5ij)
+               
 
 ---
     
@@ -164,7 +164,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 - TravisCI
 - Gitpitch
 ---
-                            ###CONCULSION
+                            CONCULSION
 
 
  This  project is about content centric web-technologies which helps content-editor to focus on content rather than on designing it .It is made using tool named [JEKYLL](https://jekyllrb.com/) This will help in enchancement of matter as required time will be given to the content . 
