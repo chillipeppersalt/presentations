@@ -60,7 +60,7 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
  
                   How to run JEKYLL
                
-
+![video](https://asciinema.org/a/Rs52sopcjJm5CByczgaySaVmX)
 ---
     
                      TRAVIS  CI
