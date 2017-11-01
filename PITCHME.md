@@ -2,11 +2,11 @@
 ---
                    ***_CONTENT CENTRIC WEB-TECHNOLOGIES_***
                     
-                       - _SIMRAN PURI_
+                       - SIMRAN PURI
 
-                       - _BTECH CSE SEC-A_
+                       - BTECH CSE SEC-A
 
-                       - _ROLLNO - 2815051_
+                       - ROLLNO - 2815051
 
 ---
                               MARKDOWN
