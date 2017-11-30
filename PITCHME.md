@@ -156,11 +156,11 @@ source: [jekyll](https://talk.jekyllrb.com/uploads/jekyllrb/original/1X/4f9bd533
 ---
 Then it is build using TravisCI for deployment[TravisCI](https://travis-ci.org/) .It is used to build & test software project hosted on github.The main agenda is to identify the problem that creeps in during the development process as early as possible so therefore compiled regularly.
 ---
-***AUXILLARY TOOLS
+***AUXILLARY TOOLS***
 - JEKYLL 
 - TRAVIS CI
 - GITPITCH
-- ASCIINEMA***
+- ASCIINEMA
 ---
  
 
