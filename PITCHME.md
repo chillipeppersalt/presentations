@@ -160,7 +160,7 @@ Then it is build using TravisCI for deployment[TravisCI](https://travis-ci.org/)
 - JEKYLL 
 - TRAVIS CI
 - GITPITCH
-- ASCIINEMA
+- ASCIINEMA***
 ---
  
 
